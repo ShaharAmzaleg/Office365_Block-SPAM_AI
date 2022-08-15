@@ -86,7 +86,7 @@ The Microsoft 365 admin center Integrated apps.
 
 ## Run scheduled script to learn and enforce the messages
 
-Run the ps1 script (Block_spam_Address_AI.ps1) every night 1AM.
+**Run the ps1 script (Block_spam_Address_AI.ps1) every night 1AM.**
 * Dont forget to change the variables before first running
 
 
