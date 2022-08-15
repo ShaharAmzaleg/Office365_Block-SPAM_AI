@@ -81,6 +81,7 @@ The Microsoft 365 admin center Integrated apps.
 **2)** Set up a Reporting Mailbox – Here you can configure to send a copy of reported messages to a centralized mailbox.
 
 ![](https://i.imgur.com/8SO2dzA.png)
+
 **3)** Config User reporting experience - allows you to configure custom messages shown before and after the user reports messages.
 
 
@@ -88,6 +89,11 @@ The Microsoft 365 admin center Integrated apps.
 
 **Run the ps1 script (Block_spam_Address_AI.ps1) every night 1AM.**
 * Dont forget to change the variables before first running
+
+
+
+
+
 
 
 **Contribution**
