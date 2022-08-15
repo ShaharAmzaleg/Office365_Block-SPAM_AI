@@ -33,6 +33,7 @@ The Microsoft 365 admin center Integrated apps.
 ![image](https://user-images.githubusercontent.com/11631443/184556550-52a62fbb-2cf0-4b3a-9462-bb94c1fb1ee4.png)
 
 **2)** In the Microsoft 365 Apps page that appears, click in the Search box, enter Report Message, and then click Search Search icon.. In the list of results, find and select Report Message.
+
 **3)** The app details page opens. Select Get It Now.
 
 ![image](https://user-images.githubusercontent.com/11631443/184556672-483bd5c5-d94f-40d2-8756-f152a169f1c6.png)
@@ -66,11 +67,11 @@ The Microsoft 365 admin center Integrated apps.
 
  **Create a shared mailbox**
 
-1.  Sign in with a global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**," then you aren't an admin.
+**1)**  Sign in with a global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**," then you aren't an admin.
 
-2.  In the admin center, go to the  **Teams & Groups**  >  [Shared mailboxes](https://go.microsoft.com/fwlink/p/?linkid=2066847)  page.
+**2)**  In the admin center, go to the  **Teams & Groups**  >  [Shared mailboxes](https://go.microsoft.com/fwlink/p/?linkid=2066847)  page.
 
-3.  On the  **Shared mailboxes**  page, select  **+ Add a shared mailbox**. Enter a name for the shared mailbox. This chooses the email address, but you can edit it if needed.
+**3)**  On the  **Shared mailboxes**  page, select  **+ Add a shared mailbox**. Enter a name for the shared mailbox. This chooses the email address, but you can edit it if needed.
 ![image](https://user-images.githubusercontent.com/11631443/184557830-9a3eca27-fc76-470b-bc39-ffcd9f6e41b6.png)
 
 
@@ -79,6 +80,7 @@ The Microsoft 365 admin center Integrated apps.
 ## Config "Report Message" button
 
 **1)** Open [User reported message settings](https://security.microsoft.com/userSubmissionsReportMessage)
+
 **2)** Set up a Reporting Mailbox – Here you can configure to send a copy of reported messages to a centralized mailbox.
 
 ![](https://i.imgur.com/8SO2dzA.png)
