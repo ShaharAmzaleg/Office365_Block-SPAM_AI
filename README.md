@@ -1,4 +1,5 @@
-# Office365_AI_Block-SPAM
+# Office365_Block-SPAM_AI
+
 
 Designed for organizations with 0ffice365 services.
 
